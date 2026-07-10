@@ -6,7 +6,8 @@ As with all manufactured metal and wood type used in Australia during the late 1
 
 The digital typeface uses variable type technology to embed a ‘time’ axis, allowing users to slide across time—from crisp and newly imported to worn and forgotten letterforms.
 
-
+![Sample Image](documentation/ArmidaleGitHubImages-1.jpg)
+![Sample Image](documentation/ArmidaleGitHubImages-2.jpg)
 
 ## About the Designer
 
