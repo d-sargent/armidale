@@ -6,6 +6,8 @@ As with all manufactured metal and wood type used in Australia during the late 1
 
 The digital typeface uses variable type technology to embed a ‘time’ axis, allowing users to slide across time—from crisp and newly imported to worn and forgotten letterforms.
 
+The early history of this project and initial proof of concept design was presented at the ATypI Brisbane 2024 conference: [presentation recording](https://youtu.be/CuvvMv7f3SM?si=Oj_JfN9PTqk59siu).
+
 ![Sample Image](documentation/ArmidaleGitHubImages-1.jpg)
 ![Sample Image](documentation/ArmidaleGitHubImages-2.jpg)
 
@@ -26,7 +28,7 @@ As a design practitioner, David is interested in how creative practice can engag
 
 **April 2024. Version 0.100**
 * Proof of concept 'HOP' completed
-* History of project and initial progress presented at ATypI 2024 Brisbane conference: [presentation recording](https://youtu.be/CuvvMv7f3SM?si=Oj_JfN9PTqk59siu)
+* Initial progress presented at ATypI 2024 Brisbane conference
 
 ## License
 
