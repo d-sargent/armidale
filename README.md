@@ -1,12 +1,16 @@
 # Armidale
 
-_Armidale_ is a digital revival of a well-worn ‘Fat Face’ Roman wood type set currently living at the Museum of Printing in Armidale, regional Australia. The set has warped surfaces and some finer details broken during its past life as a working letterpress typeface. Due to this condition, any contemporary impressions contain a great deal of texture unique to this set. 
+_Armidale_ is a digital revival of a well-worn ‘Fat Face’ Roman wood type set currently living at the [Museum of Printing](https://www.neram.com.au/visit/museum-of-printing/) in [Armidale](https://www.visitnsw.com/destinations/country-nsw/armidale-area), regional Australia. The set has warped surfaces and some finer details broken during its past life as a working letterpress typeface. Due to this condition, any contemporary impressions contain a great deal of texture unique to this set. 
 
-As with all manufactured metal and wood type used in Australia during the late 19th and early 20th centuries, this typeface is an import, not a local design. It is possibly Sixteen Line Roman circa 1865, distributed by W.H. Bonnewell & Co., London. However, while the origin of the typeface is not Australian, the physical type sorts are intertwined with our colonial printing history. This typeface revival project attempts to extend Olocco and Patané’s ‘synthetic’ and ‘literal’ approaches to type revivals by embedding a sense of place and time into the outcome. The revival aims to recreate these particular letterforms’ tactile, well-worn, and damaged nature—infusing the digital design outcome with its history. 
+As with all manufactured metal and wood type used in Australia during the late 19th and early 20th centuries, this typeface is an import, not a local design. It is possibly [Sixteen Line Roman](https://www.instagram.com/p/CrT07BFLu9V/) circa 1865, distributed by W.H. Bonnewell & Co., London. However, while the origin of the typeface is not Australian, the physical type sorts are intertwined with our colonial printing history. This typeface revival project attempts to extend Olocco and Patané’s ‘synthetic’ and ‘literal’ approaches to type revivals by embedding a sense of place and time into the outcome. The revival aims to recreate these particular letterforms’ tactile, well-worn, and damaged nature—infusing the digital design outcome with its history. 
 
 The digital typeface uses variable type technology to embed a ‘time’ axis, allowing users to slide across time—from crisp and newly imported to worn and forgotten letterforms.
 
+The early history of this project and initial proof of concept design was presented at the ATypI Brisbane 2024 conference: [presentation recording](https://youtu.be/CuvvMv7f3SM?si=Oj_JfN9PTqk59siu).
 
+
+![Sample Image](documentation/ArmidaleGitHubImages-1.jpg)
+![Sample Image](documentation/ArmidaleGitHubImages-2.jpg)
 
 ## About the Designer
 
@@ -25,7 +29,7 @@ As a design practitioner, David is interested in how creative practice can engag
 
 **April 2024. Version 0.100**
 * Proof of concept 'HOP' completed
-* History of project and initial progress presented at ATypI 2024 Brisbane conference: [presentation recording](https://youtu.be/CuvvMv7f3SM?si=Oj_JfN9PTqk59siu)
+* Initial progress presented at ATypI 2024 Brisbane conference
 
 ## License
 
