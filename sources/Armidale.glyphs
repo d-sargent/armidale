@@ -1,6 +1,11 @@
 {
 .appVersion = "3436";
 .formatVersion = 3;
+DisplayStrings = (
+C,
+A,
+CJOPR
+);
 axes = (
 {
 name = Weight;
@@ -76,7 +81,7 @@ visible = 1;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2026-07-15 23:36:56 +0000";
+lastChange = "2026-07-16 03:48:39 +0000";
 layers = (
 {
 anchors = (
@@ -2392,15 +2397,54 @@ unicode = 66;
 },
 {
 glyphname = C;
-lastChange = "2024-03-19 01:43:46 +0000";
+lastChange = "2026-07-16 03:56:17 +0000";
 layers = (
 {
 layerId = m01;
 width = 600;
 },
 {
+backgroundImage = {
+imagePath = "../../../../Library/CloudStorage/OneDrive-GriffithUniversity/Griffith Research Activity/In Progress/2026 Armidale Fat Face/Scans/C.jpeg";
+locked = 1;
+pos = (2,-41);
+scale = (7.9,7.9);
+};
+guides = (
+{
+pos = (85,720);
+}
+);
 layerId = "3EA7957E-AF9A-4F26-9610-2294CA2AAD03";
-width = 600;
+shapes = (
+{
+closed = 0;
+nodes = (
+(1994,720,l),
+(1994,1136,o),
+(1596,1462,o),
+(1089,1462,cs),
+(502,1462,o),
+(85,1156,o),
+(85,720,cs),
+(85,284,o),
+(502,-22,o),
+(1089,-22,cs),
+(1642,-22,o),
+(1975,226,o),
+(2039,674,c),
+(1991,679,l),
+(1957,362,o),
+(1629,70,o),
+(1310,70,cs),
+(1123,70,o),
+(1031,191,o),
+(1031,455,cs),
+(1031,720,ls)
+);
+}
+);
+width = 2168;
 }
 );
 unicode = 67;
