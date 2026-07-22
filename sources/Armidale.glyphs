@@ -17,7 +17,9 @@ R,
 HOD",
 "/.notdef",
 "DĐÐĦ",
-"Ő"
+"Ő",
+I,
+"́ÍÏ"
 );
 axes = (
 {
@@ -7851,9 +7853,19 @@ unicode = 66;
 },
 {
 glyphname = C;
-lastChange = "2026-07-20 06:01:08 +0000";
+lastChange = "2026-07-22 02:17:20 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (1021,0);
+},
+{
+name = top;
+pos = (1021,1440);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -8845,6 +8857,16 @@ nodes = (
 width = 2042;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (1021,0);
+},
+{
+name = top;
+pos = (1021,1440);
+}
+);
 backgroundImage = {
 imagePath = "../../../../Library/CloudStorage/OneDrive-GriffithUniversity/Griffith Research Activity/In Progress/2026 Armidale Fat Face/Scans/C.jpeg";
 locked = 1;
@@ -9851,6 +9873,16 @@ nodes = (
 width = 2042;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (1021,0);
+},
+{
+name = top;
+pos = (1021,1440);
+}
+);
 associatedMasterId = "3EA7957E-AF9A-4F26-9610-2294CA2AAD03";
 attr = {
 axisRules = (
@@ -9940,6 +9972,16 @@ nodes = (
 width = 2042;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (1021,0);
+},
+{
+name = top;
+pos = (1021,1440);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -10018,14 +10060,33 @@ unicode = 67;
 },
 {
 glyphname = Cacute;
+lastChange = "2026-07-22 02:19:18 +0000";
 layers = (
 {
 layerId = m01;
-width = 1200;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (502,0);
+ref = acutecomb;
+}
+);
+width = 2042;
 },
 {
 layerId = "3EA7957E-AF9A-4F26-9610-2294CA2AAD03";
-width = 1200;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (502,0);
+ref = acutecomb;
+}
+);
+width = 2042;
 }
 );
 unicode = 262;
@@ -24804,9 +24865,27 @@ unicode = 294;
 },
 {
 glyphname = I;
-lastChange = "2026-07-20 06:28:20 +0000";
+lastChange = "2026-07-22 02:17:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (708,0);
+},
+{
+name = ogonek;
+pos = (1274,10);
+},
+{
+name = top;
+pos = (708,1440);
+},
+{
+name = topleft;
+pos = (20,1440);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -25655,6 +25734,24 @@ nodes = (
 width = 1416;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (708,0);
+},
+{
+name = ogonek;
+pos = (1274,10);
+},
+{
+name = top;
+pos = (708,1440);
+},
+{
+name = topleft;
+pos = (20,1440);
+}
+);
 backgroundImage = {
 imagePath = "../../../../Library/CloudStorage/OneDrive-GriffithUniversity/Griffith Research Activity/In Progress/2026 Armidale Fat Face/Scans/I.jpeg";
 locked = 1;
@@ -26515,6 +26612,24 @@ nodes = (
 width = 1416;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (708,0);
+},
+{
+name = ogonek;
+pos = (1274,10);
+},
+{
+name = top;
+pos = (708,1440);
+},
+{
+name = topleft;
+pos = (20,1440);
+}
+);
 associatedMasterId = "3EA7957E-AF9A-4F26-9610-2294CA2AAD03";
 attr = {
 axisRules = (
@@ -26598,6 +26713,24 @@ nodes = (
 width = 1416;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (708,0);
+},
+{
+name = ogonek;
+pos = (1274,10);
+},
+{
+name = top;
+pos = (708,1440);
+},
+{
+name = topleft;
+pos = (20,1440);
+}
+);
 associatedMasterId = m01;
 attr = {
 axisRules = (
@@ -26673,14 +26806,33 @@ unicode = 73;
 },
 {
 glyphname = Iacute;
+lastChange = "2026-07-22 02:18:04 +0000";
 layers = (
 {
 layerId = m01;
-width = 1200;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (189,0);
+ref = acutecomb;
+}
+);
+width = 1416;
 },
 {
 layerId = "3EA7957E-AF9A-4F26-9610-2294CA2AAD03";
-width = 1200;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (189,0);
+ref = acutecomb;
+}
+);
+width = 1416;
 }
 );
 unicode = 205;
@@ -26701,14 +26853,33 @@ unicode = 206;
 },
 {
 glyphname = Idieresis;
+lastChange = "2026-07-22 02:18:04 +0000";
 layers = (
 {
 layerId = m01;
-width = 1200;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (335,0);
+ref = dieresiscomb;
+}
+);
+width = 1416;
 },
 {
 layerId = "3EA7957E-AF9A-4F26-9610-2294CA2AAD03";
-width = 1200;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (335,0);
+ref = dieresiscomb;
+}
+);
+width = 1416;
 }
 );
 unicode = 207;
@@ -54140,7 +54311,7 @@ unicode = 768;
 },
 {
 glyphname = acutecomb;
-lastChange = "2026-07-15 23:38:44 +0000";
+lastChange = "2026-07-22 02:18:45 +0000";
 layers = (
 {
 anchors = (
@@ -54342,12 +54513,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(56,1560,l),
+(52,1554,l),
 (60,1568,l),
 (63,1571,l),
 (66,1565,l),
 (72,1563,l),
-(71,1552,l)
+(67,1546,l)
 );
 },
 {
@@ -54355,8 +54526,8 @@ closed = 1;
 nodes = (
 (79,1558,l),
 (88,1562,l),
-(90,1557,l),
-(80,1554,l)
+(90,1555,l),
+(80,1552,l)
 );
 },
 {
@@ -54364,7 +54535,7 @@ closed = 1;
 nodes = (
 (101,1563,l),
 (109,1572,l),
-(109,1562,l)
+(112,1560,l)
 );
 },
 {
@@ -54372,15 +54543,15 @@ closed = 1;
 nodes = (
 (127,1569,l),
 (130,1564,l),
-(123,1564,l)
+(121,1562,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(187,1582,l),
+(186,1579,l),
 (189,1587,l),
-(195,1580,l)
+(208,1579,l)
 );
 },
 {
@@ -54407,7 +54578,7 @@ nodes = (
 closed = 1;
 nodes = (
 (956,1706,l),
-(953,1702,l),
+(954,1697,l),
 (941,1702,l)
 );
 },
@@ -54424,7 +54595,7 @@ closed = 1;
 nodes = (
 (1011,1727,l),
 (1017,1723,l),
-(1011,1721,l)
+(1007,1716,l)
 );
 }
 );
