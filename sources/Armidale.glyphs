@@ -7,7 +7,8 @@ HODHOUD CHUD
 BIRTH CHUD
 CHIP UDDER",
 "Æ",
-"Ŕ"
+"Ŕ",
+"/.notdef"
 );
 axes = (
 {
@@ -54832,7 +54833,7 @@ unicode = 160;
 },
 {
 glyphname = .notdef;
-lastChange = "2026-07-20 22:45:45 +0000";
+lastChange = "2026-07-24 06:08:22 +0000";
 layers = (
 {
 guides = (
@@ -54959,6 +54960,40 @@ width = 1600;
 {
 layerId = m01;
 name = Original;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1521,0,l),
+(1521,1440,l),
+(80,1440,l),
+(80,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(801,669,l),
+(236,104,l),
+(185,156,l),
+(750,721,l),
+(185,1285,l),
+(237,1336,l),
+(801,772,l),
+(1365,1336,l),
+(1417,1285,l),
+(853,721,l),
+(1417,156,l),
+(1366,104,l)
+);
+}
+);
+width = 1601;
+},
+{
+associatedMasterId = m01;
+layerId = "6F3A6A6A-C589-433E-A841-FAE6DA0423B8";
+name = "24 Jul 26 at 16:08";
 shapes = (
 {
 closed = 1;
